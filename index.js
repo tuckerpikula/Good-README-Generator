@@ -1,4 +1,4 @@
-const fs = require('fs')
+const { writeFile } = require('fs')
 const { prompt } = require('inquirer')
 
 prompt([
@@ -64,7 +64,9 @@ Find my github by clicking my username: ${res.username}
 or
 email me at: ${res.email}
   `
-
-
-
+    
+    writeFile('README.md', body, err => {
+      if (err) { console.log(err)}
+    })
   })
+  .catch(err => console.log(err))
