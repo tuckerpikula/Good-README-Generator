@@ -42,6 +42,29 @@ prompt([
   }
 ])
 
-.then(res= {
-  
-})
+  .then(res => {
+    let body = `
+#  ${res.title}
+
+## Description:
+${res.description}
+
+## Table of Contents (Optional)
+${res.}
+## Installation
+${res.install_instructions}
+## Usage
+${res.usage_information}
+## Contribution
+${res.contribution_guidelines}
+## License
+${res.license}
+## Questions?
+Find my github by clicking my username: ${res.username}
+or
+email me at: ${res.email}
+  `
+
+
+
+  })
