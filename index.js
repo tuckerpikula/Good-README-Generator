@@ -71,7 +71,7 @@ or
 email me at: ${res.email}
   `
     
-    writeFile('README.md', body, err => {
+    writeFile('NEWREADME.md', body, err => {
       if (err) { console.log(err)}
     })
   })

@@ -1,8 +1,8 @@
 
-#  readmegen
+#  README GEN
 
 ## Description:
-gen
+generate read me's
 
 ## Table of Contents (Optional)
 - [Usage](#install_instructions)
@@ -13,11 +13,11 @@ gen
 - [License](#license)
 
 ## Installation
-inquirier
+use npm i inquirier
 ## Usage
-generating readmes
+generate
 ## Contribution
-MIT
+n/a
 ## License
 MIT
 ## Questions?
