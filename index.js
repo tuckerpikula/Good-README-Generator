@@ -50,7 +50,13 @@ prompt([
 ${res.description}
 
 ## Table of Contents (Optional)
-${res.}
+- [Usage](#install_instructions)
+- [Contributing](#usage_information)
+- [Instal Instructions] (#install_instructions)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
+
 ## Installation
 ${res.install_instructions}
 ## Usage
