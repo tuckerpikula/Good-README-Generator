@@ -41,3 +41,7 @@ prompt([
     message: 'What is your email?'
   }
 ])
+
+.then(res= {
+  
+})
