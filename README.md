@@ -1,3 +1,8 @@
+Video of how to use: 
+<iframe src="https://drive.google.com/file/d/1rBCmLLcR0enWLiG7LWpNPpOvPl81YL3E/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1rBCmLLcR0enWLiG7LWpNPpOvPl81YL3E/view
+
+
 
 #  readmegen
 
@@ -24,4 +29,6 @@ MIT
 Find my github by clicking my username: tuckerpikula
 or
 email me at: pikulatucker@gmail.com
+
+
   

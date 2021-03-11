@@ -1,8 +1,8 @@
 
-#  README GEN
+#  readmegenerator
 
 ## Description:
-generate read me's
+generates read me
 
 ## Table of Contents (Optional)
 - [Usage](#install_instructions)
@@ -13,13 +13,13 @@ generate read me's
 - [License](#license)
 
 ## Installation
-use npm i inquirier
+download inquirer
 ## Usage
-generate
+generating read me's
 ## Contribution
-n/a
+install proper nmp's
 ## License
-MIT
+n/a
 ## Questions?
 Find my github by clicking my username: tuckerpikula
 or
